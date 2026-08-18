@@ -11,7 +11,10 @@ The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, obtain
 Features include mean radius, mean texture, mean perimeter, mean area, mean smoothness, and other computed metrics of cell nuclei from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 
 ## c. Github Repository Link
-[Insert your GitHub Repository Link here]
+[https://github.com/bvssasidhar/mlassignment2](https://github.com/bvssasidhar/mlassignment2)
+
+**Live Streamlit App:**
+[https://mlassignment2-gjuesjfyyvwflhnvc6kdmt.streamlit.app/](https://mlassignment2-gjuesjfyyvwflhnvc6kdmt.streamlit.app/)
 
 ## d. Models Used
 The following 5 machine learning models were trained on 80% of the dataset and evaluated on the remaining 20% test data.
